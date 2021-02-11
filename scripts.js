@@ -7,7 +7,7 @@
         recipe = [
             { "name": "Jose Manuel Olmedo Balandrano", "puesto": "Business Development", "linkedin": "https://www.linkedin.com/in/jos%C3%A9-manuel-olmedo-balandrano/", "resume": "https://drive.google.com/open?id=1_f-OB-yXtFONKhA6YdywWwCzo-M3VapO" },
 			{ "name": "Alfredo Rodríguez Flores", "puesto": "Business Development", "linkedin": "https://www.linkedin.com/in/alfredrodgz/", "resume": "https://drive.google.com/open?id=1_f-OB-yXtFONKhA6YdywWwCzo-M3VapO" },
-			{ "name": "Marta Chaves Betancor", "puesto": "Business Development", "linkedin": "https://www.linkedin.com/in/marta-chaves-betancor-928", "resume": "https://drive.google.com/open?id=1UrwqxVoXzY5llKROXkTxqocUog0ykp1h" },
+			{ "name": "Marta Chaves Betancor", "puesto": "Business Development", "linkedin": "https://www.linkedin.com/in/marta-chaves-betancor-928", "resume": "https://drive.google.com/open?id=1jqN40ibRBYs6Bz7m1RuvBZfphd3BXZzg" },
 			{ "name": "Alvaro Plaschinski Avila", "puesto": "Business Development", "linkedin": "http://www.linkedin.com/on/alvaro-plaschinski", "resume": "https://drive.google.com/open?id=15IIZLf3mhbCNfbkWy_ODtQasRVch-NKu" },
 			{ "name": "Edy Reyes Gomez", "puesto": "Business Development", "linkedin": "https://www.linkedin.com/in/edyreyes/", "resume": "https://drive.google.com/open?id=1mfi6Jd70BPuxCr8U5HxdL9i-G4ty867y" },
 			{ "name": "Jhonatan Alfredo Mejía Monroy", "puesto": "Business Development", "linkedin": "https://www.linkedin.com/in/jhonathanm/", "resume": "https://www.linkedin.com/in/jhonathanm/" },
